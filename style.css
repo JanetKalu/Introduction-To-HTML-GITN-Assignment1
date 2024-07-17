@@ -1,0 +1,13 @@
+.fave-movies h2, .fave-sites h2 {
+    color: rgb(115, 104, 185);
+    font: 1.8em sans-serif;
+
+}
+
+.fave-movies .movie-title {
+    color: hotpink;
+    background-color: rgb(213, 244, 244);
+    font: 1.4em sans-serif;
+    width: 250px;
+    height: auto;
+}
