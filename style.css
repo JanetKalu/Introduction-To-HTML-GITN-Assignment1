@@ -1,13 +1,34 @@
+body {
+    background-color: rgb(218, 238, 246);
+
+}
+
+h1 {
+    color: mediumblue;
+    font: 3em sans-serif;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    font-family: serif;
+
+}
+
 .fave-movies h2, .fave-sites h2 {
-    color: rgb(115, 104, 185);
-    font: 1.8em sans-serif;
+    color: rgba(87, 70, 195, 0.93);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 
 .fave-movies .movie-title {
-    color: hotpink;
-    background-color: rgb(213, 244, 244);
+    /*background-color: goldenrod;*/
+    color: rgba(103, 25, 103, 0.732);
     font: 1.4em sans-serif;
     width: 250px;
-    height: auto;
+    fo
+    
 }
+
+
+
